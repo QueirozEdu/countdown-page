@@ -5,6 +5,7 @@
 }
 
 .main-card-section {
+    max-width: 1132px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
