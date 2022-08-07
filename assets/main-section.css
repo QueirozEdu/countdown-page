@@ -1,0 +1,51 @@
+.main-section {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.main-card-section {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    text-align: center;
+    width: 60vw;
+}
+
+.title-section {
+    margin-bottom: 150px;
+    color: var(--white);
+    font-weight: 800;
+    letter-spacing: 7px;
+}
+
+.timer-section {
+    
+}
+
+.timer-section-list {
+    display: flex;
+    justify-content: space-between;
+}
+
+.unit-card {
+
+    background-color: var(--dark-desaturated-blue);
+    padding: 10px;
+    border-radius: 10px;
+    width: 130px;
+    height: 100px;
+}
+
+.card-unit-data {
+    z-index: 100;
+    color: var(--soft-red);
+    font-size: 100px;
+}
+
+.card-unit-label {
+    color: var(--grayish-blue);
+    margin-top: 15px;
+
+}
+
