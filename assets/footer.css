@@ -1,0 +1,14 @@
+.footer {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.links-section a {
+    text-decoration: none;
+    padding: 10px;
+}
+
+.links-section a:hover svg path{
+    fill: var(--soft-red) !important;
+}
