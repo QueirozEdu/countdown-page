@@ -5,12 +5,13 @@
 }
 
 .main-card-section {
-    max-width: 1132px;
+    width: 50vw;
+    max-width: 1000px;
+    margin-top: -150px;
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     text-align: center;
-    width: 60vw;
 }
 
 .title-section {
